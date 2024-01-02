@@ -1,4 +1,3 @@
-# Data Analyst Portfolio Project – Sales Management
 
 | Sales Dashboard | Data Model Image |
 | --- | --- |
