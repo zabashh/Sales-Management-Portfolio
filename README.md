@@ -10,7 +10,7 @@
 
 # Business Request & User Stories
 
-The business request for this data analyst project was an executive sales report for sales managers. Based on the request that was made from the business, the following user stories were defined to fulfill delivery and ensure that acceptance criteria were maintained throughout the project.
+An executive sales report for sales managers was the business request for this data analyst project. The following user stories were designed to fulfill delivery and ensure that acceptance criteria were maintained throughout the project based on the business request.
 
 ## User Stories
 
@@ -22,6 +22,7 @@ The business request for this data analyst project was an executive sales report
 | 4 | Sales Manager       | A dashboard overview of internet sales             | Follow sales over time against budget                    | A Power Bi dashboard with graphs and KPIs comparing against budget |
 
 ## Data Cleansing & Transformation (SQL)
+
 The following tables were retrieved using SQL in order to generate the required data model for conducting analysis and meeting the business needs outlined in the user stories.
 Sales budgets, one data source, were supplied in Excel format and, at a later stage of the procedure, were linked in the data model.
 The SQL statements for transforming and cleaning the required data are listed below.
@@ -193,3 +194,15 @@ ORDER BY
 
   </code>
 </pre>
+
+## Data Model 
+i have addded a screenshot of the data model after it was cleansed and prepared tables were read into Power BI.
+
+This data model also shows how FACT_Budget has been connected to FACT_InternetSales and other necessary DIM tables.
+![Data Model Image](images/datamodel.png)
+
+## Sales Management Dashboard
+The completed sales management dashboard includes one page that serves as a dashboard and overview, as well as two other pages that combine tables for essential information and visualizations to illustrate sales over time, by customer, and by product.
+![Sales Dashboard](images/SalesDashboard.png)
+
+
