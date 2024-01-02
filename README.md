@@ -28,6 +28,8 @@ The SQL statements for transforming and cleaning the required data are listed be
 
 ### DIM_Calendar:
 
+<pre>
+<code>
 -- Cleansed DIM_Date Table --
 SELECT 
   [DateKey], 
@@ -53,3 +55,5 @@ FROM
   [AdventureWorksDW2019].[dbo].[DimDate]
 WHERE 
   CalendarYear >= 2019;
+</code>
+</pre>
