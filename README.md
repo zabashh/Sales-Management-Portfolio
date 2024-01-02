@@ -28,13 +28,12 @@ The SQL statements for transforming and cleaning the required data are listed be
 
 ### DIM_Calendar:
 
-```sql
 -- Cleansed DIM_Date Table --
 SELECT 
   [DateKey], 
   [FullDateAlternateKey] AS Date, 
   -- [DayNumberOfWeek], 
-  -- [EnglishDayNameOfWeek] AS Day, 
+  [EnglishDayNameOfWeek] AS Day, 
   -- [SpanishDayNameOfWeek], 
   -- [FrenchDayNameOfWeek], 
   -- [DayNumberOfMonth], 
