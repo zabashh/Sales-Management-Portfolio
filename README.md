@@ -1,8 +1,3 @@
-<style>
-  .repository {
-    display: none;
-  }
-</style>
 
 
 | Sales Dashboard | Data Model Image |
