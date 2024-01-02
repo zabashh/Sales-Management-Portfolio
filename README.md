@@ -1,19 +1,9 @@
 # Sales Management Portfolio
 
-<div style="float: left; width: 50%;">
-  ![Sales Dashboard](images/SalesDashboard.png)
-</div>
+| Sales Dashboard | Data Model Image |
+| --- | --- |
+| ![Sales Dashboard](images/SalesDashboard.png) | ![Data Model Image](images/datamodel.png) |
 
-<div style="float: left; width: 50%;">
-  ![Data Model Image](images/datamodel.png)
-</div>
-
-<div style="clear: both;"></div>
-
-<div style="float: left; width: 50%;">
-  ![Sql](images/sql.png)
-</div>
-
-<div style="float: left; width: 50%;">
-  ![csv](images/customercsc.png)
-</div>
+| Sql | csv |
+| --- | --- |
+| ![Sql](images/sql.png) | ![csv](images/customercsc.png) |
