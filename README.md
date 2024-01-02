@@ -199,10 +199,12 @@ ORDER BY
 i have addded a screenshot of the data model after it was cleansed and prepared tables were read into Power BI.
 
 This data model also shows how FACT_Budget has been connected to FACT_InternetSales and other necessary DIM tables.
+
 ![Data Model Image](images/datamodel.png)
 
 ## Sales Management Dashboard
 The completed sales management dashboard includes one page that serves as a dashboard and overview, as well as two other pages that combine tables for essential information and visualizations to illustrate sales over time, by customer, and by product.
+
 ![Sales Dashboard](images/SalesDashboard.png)
 
 
