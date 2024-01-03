@@ -205,8 +205,9 @@ This data model also shows how FACT_Budget has been connected to FACT_InternetSa
 ## Sales Management Dashboard
 The completed sales management dashboard includes one page that serves as a dashboard and overview, as well as two other pages that combine tables for essential information and visualizations to illustrate sales over time, by customer, and by product.
 
+Click the image to view the Dashboard
 
-[![Sales Management Dashboard](images/SalesDashboard.png)](https://app.powerbi.com/links/ghXonJNgSO?ctid=36a7cf8e-7b4b-4f88-924d-1b940b189747&pbi_source=linkShare)
+[![Sales Management Dashboard](images/SalesDashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiZGE1MjYzOWYtNTVmNy00MTI3LTg5YWEtZjNkYzkwMzBiZTQ2IiwidCI6IjM2YTdjZjhlLTdiNGItNGY4OC05MjRkLTFiOTQwYjE4OTc0NyIsImMiOjF9)
 
 
 
